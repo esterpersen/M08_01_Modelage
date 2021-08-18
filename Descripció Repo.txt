@@ -1,3 +1,1 @@
-Aquest repositori conté l'exercici 1 del mòdul 2: "Exercici Modelatge BBDD"
-
-Instrucció: Crea al GIT un repositori anomenat modelatge-BBDD que contingui les captures en PNG de cadascun del 6 exercici i una exportació en SQL de la pràctica final.
+Instrucció: Crea al GIT un repositori anomenat modelatge-BBDD que contingui les captures en PNG de cadascun del 6 exercici i una exportació en .sql de la pràctica final.
